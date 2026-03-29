@@ -12,3 +12,4 @@ C:\Users\ypono\source\repos\SystemProgramming\SystemProgramming\obj\Debug\net8.0
 C:\Users\ypono\source\repos\SystemProgramming\SystemProgramming\obj\Debug\net8.0\SystemProgramming.pdb
 C:\Users\ypono\source\repos\SystemProgramming\SystemProgramming\obj\Debug\net8.0\SystemProgramming.genruntimeconfig.cache
 C:\Users\ypono\source\repos\SystemProgramming\SystemProgramming\obj\Debug\net8.0\ref\SystemProgramming.dll
+C:\Users\ypono\source\repos\SystemProgramming\SystemProgramming\obj\Debug\net8.0\SystemProgramming.sourcelink.json
