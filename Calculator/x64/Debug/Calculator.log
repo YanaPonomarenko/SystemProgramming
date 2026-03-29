@@ -1,0 +1,10 @@
+﻿  pch.cpp
+C:\Users\ypono\source\repos\SystemProgramming\Calculator\pch.cpp(24,3): warning C4297: 'Add': function assumed not to throw an exception but does
+      C:\Users\ypono\source\repos\SystemProgramming\Calculator\pch.cpp(24,3):
+      The function is extern "C" and /EHc was specified
+  
+  Calculator.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\ypono\source\repos\SystemProgramming\x64\Debug\Calculator.lib and object C:\Users\ypono\source\repos\SystemProgramming\x64\Debug\Calculator.exp
+  Calculator.vcxproj -> C:\Users\ypono\source\repos\SystemProgramming\x64\Debug\Calculator.dll

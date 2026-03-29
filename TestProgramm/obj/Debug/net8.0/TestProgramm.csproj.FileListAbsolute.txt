@@ -1,0 +1,14 @@
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\bin\Debug\net8.0\TestProgramm.exe
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\bin\Debug\net8.0\TestProgramm.deps.json
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\bin\Debug\net8.0\TestProgramm.runtimeconfig.json
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\bin\Debug\net8.0\TestProgramm.dll
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\bin\Debug\net8.0\TestProgramm.pdb
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.AssemblyInfoInputs.cache
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.AssemblyInfo.cs
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.csproj.CoreCompileInputs.cache
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.dll
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\refint\TestProgramm.dll
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.pdb
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\TestProgramm.genruntimeconfig.cache
+C:\Users\ypono\source\repos\SystemProgramming\TestProgramm\obj\Debug\net8.0\ref\TestProgramm.dll
