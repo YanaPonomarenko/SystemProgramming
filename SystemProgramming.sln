@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ResultHW.txt = ResultHW.txt
 		ResultHW2.txt = ResultHW2.txt
 		ResultHW3.txt = ResultHW3.txt
+		ResultHW4.txt = ResultHW4.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{2C0FB752-08F7-4B29-B80A-D90A5A68F23F}"
@@ -23,6 +24,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore", "OnlineStore\OnlineStore.csproj", "{83C7A9AA-028F-4E71-8662-83F83E32E1CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSimulator", "DungeonSimulator\DungeonSimulator.csproj", "{8B9B2DCB-D0EF-41BA-8A8D-9B805D9A13C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankQueueSimulation", "BankQueueSimulation\BankQueueSimulation.csproj", "{204A70D6-930B-493A-B9C2-938EA44E6624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserStack", "UserStack\UserStack.csproj", "{507ED4C4-4002-4994-933B-F68D5610BA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -106,6 +111,30 @@ Global
 		{8B9B2DCB-D0EF-41BA-8A8D-9B805D9A13C2}.Release|x64.Build.0 = Release|Any CPU
 		{8B9B2DCB-D0EF-41BA-8A8D-9B805D9A13C2}.Release|x86.ActiveCfg = Release|Any CPU
 		{8B9B2DCB-D0EF-41BA-8A8D-9B805D9A13C2}.Release|x86.Build.0 = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|x64.Build.0 = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Debug|x86.Build.0 = Debug|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|x64.ActiveCfg = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|x64.Build.0 = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|x86.ActiveCfg = Release|Any CPU
+		{204A70D6-930B-493A-B9C2-938EA44E6624}.Release|x86.Build.0 = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|x64.Build.0 = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Debug|x86.Build.0 = Debug|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|x64.ActiveCfg = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|x64.Build.0 = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{507ED4C4-4002-4994-933B-F68D5610BA9F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
